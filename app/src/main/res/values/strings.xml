@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">DateTime</string>
-    <string name="choose_datetime">Choose DateTime</string>
+    <string name="choose_datetime">Choose Dates Time</string>
     <string name="date_button">Date</string>
     <string name="time_button">Time</string>
 
